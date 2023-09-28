@@ -4,9 +4,10 @@ bio: "I'm a Computational Fluid Dynamics (CFD) Scientist.  I develop numerical
   codes, investigate the mathematical modelling of the physics of fluid flows
   and run simulations using High Performance Computing (HPC). "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - CFD
+  - numericalmodeling
+  - dynamicalcore
+  - algorithmimplementation
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,16 +23,16 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JosephMouallem
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/joseph-mouallem-614ab18b
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Princeton University
+    url: https://www.princeton.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -53,6 +54,7 @@ title: Joseph Mouallem
 first_name: Alice
 email: ""
 ---
+I'm a Computational Fluid Dynamics (CFD) Scientist. I develop numerical codes, investigate the mathematical modelling of the physics of fluid flows and run simulations using High Performance Computing (HPC). 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 {style="text-align: justify;"}
