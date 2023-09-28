@@ -5,22 +5,18 @@ bio: "I'm a Computational Fluid Dynamics (CFD) Scientist.  I develop numerical
   and run simulations using High Performance Computing (HPC). "
 interests:
   - CFD
-  - numericalmodeling
-  - dynamicalcore
-  - algorithmimplementation
+  - Numerical Modeling
+  - Dynamical Core
+  - Turbulence
+  - Multiphase flows
+  - High Performance Computing
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mouallem@princeton.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=YcMMTB8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/JosephMouallem
@@ -35,15 +31,15 @@ organizations:
     url: https://www.princeton.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mechanical Engineering
+      institution: University of São Paulo
+      year: 2018
+    - course: M.Sc in Fluid Mechanics
+      institution: INSA Lyon, France
+      year: 2014
+    - course: BSc in Mechanical Engineering
+      institution: Lebanese University, Roumieh, Lebanon
+      year: 2014
 superuser: true
 status:
   icon: ☕️
@@ -52,7 +48,7 @@ role: CFD Scientist
 highlight_name: true
 title: Joseph Mouallem
 first_name: Alice
-email: ""
+email: mouallem@princeton.edu
 ---
 I'm a Computational Fluid Dynamics (CFD) Scientist. I develop numerical codes, investigate the mathematical modelling of the physics of fluid flows and run simulations using High Performance Computing (HPC). 
 
