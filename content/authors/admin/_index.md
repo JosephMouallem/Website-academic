@@ -31,6 +31,9 @@ organizations:
     url: https://www.princeton.edu/
 education:
   courses:
+    - course: Postdoctoral Fellow
+      institution: University of Waterloo, Canada
+      year: 2020
     - course: PhD in Mechanical Engineering
       institution: University of São Paulo, Brazil
       year: 2018
@@ -40,9 +43,6 @@ education:
     - course: BSc in Mechanical Engineering
       institution: Lebanese University, Roumieh, Lebanon
       year: 2014
-    - course: Postdoctoral Fellow
-      institution: University of Waterloo, Canada
-      year: 2020
 superuser: true
 status:
   icon: ☕️
